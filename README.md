@@ -1,3 +1,10 @@
+# Tips for Setting up
+1. Use Python 3.7
+2. Install future :
+```
+pip install future
+```
+
 # Active Neural SLAM
 This is a PyTorch implementation of the ICLR-20 paper:
 
